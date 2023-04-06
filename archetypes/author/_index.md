@@ -6,7 +6,8 @@ role: Artist
 social:
   - icon: briefcase
     icon_pack: fas
-    link: /
+    link: /{{ path.Dir .File.Path }}
+
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/
