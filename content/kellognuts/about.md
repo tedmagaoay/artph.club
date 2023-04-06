@@ -18,8 +18,4 @@ author: kellognuts
 #  css_class: fullscreen
 ---
 
-thank you for being here 🌿 art in media tab
-
-DM for commissions/slot reservations
-
-she/her | 2001 | 🇵🇭
+A twenty-year old artist from the Philippines who loves drawing flowers, baked goods, and everything else that make you feel warm ｡･:*:･ﾟ✦
