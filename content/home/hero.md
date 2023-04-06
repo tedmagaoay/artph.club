@@ -6,7 +6,7 @@ title: The Community of Thriving Filipino Artists Online
 hero_media: art-online.svg
 cta:
   label: '**Meet Artists**'
-  url: /people/
+  url: /artists/
 cta_alt:
   label: View Gallery
   url: '#gallery'
