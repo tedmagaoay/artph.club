@@ -1,10 +1,26 @@
-# Configuration of Hugo
+  # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: "#ArtPH" # Website name
+baseURL: 'https://artph.club/' # Website URL
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Blog post options
+  - _target:
+      path: /post/**
+    pager: true
+    editable: false
+    reading_time: true
+    commentable: true
+    show_related: true
+    show_breadcrumb: false
+    share: true
 
 ############################
 ## LANGUAGE
@@ -42,6 +58,9 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
+  authors: '/:slug/'
+  post: '/:slug/'
+  project: '/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]

@@ -9,17 +9,17 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: XL
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Thriving Pinoy artists on the web.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,9 +43,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} #ArtPH.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -112,3 +112,5 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+i_am_a_sponsor: true
