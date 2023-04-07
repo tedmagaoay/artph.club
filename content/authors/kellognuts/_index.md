@@ -1,7 +1,7 @@
 ---
 title: kellognuts
 
-role: Artist
+role: Illustrator
 
 social:
   - icon: briefcase

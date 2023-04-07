@@ -1,7 +1,7 @@
 ---
 title: "jayson"
 
-role: Artist
+role: Illustrator
 
 social:
   - icon: briefcase
