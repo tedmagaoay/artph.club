@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: The Community of Thriving Filipino Artists Online
+title: A Community of Thriving Filipino Artists Online
 hero_media: art-online.svg
 cta:
   label: '**Meet Artists**'
