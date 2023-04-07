@@ -6,7 +6,7 @@ role: Illustrator
 social:
   - icon: briefcase
     icon_pack: fas
-    link: /{{ path.Dir .File.Path }}
+    link: /{{ path.Base (path.Dir .File.Path) }}
 
   - icon: twitter
     icon_pack: fab
