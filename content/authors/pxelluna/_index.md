@@ -6,7 +6,7 @@ role: Illustrator
 social:
   - icon: briefcase
     icon_pack: fas
-    link: pxelluna
+    link: /pxelluna
 
   - icon: twitter
     icon_pack: fab

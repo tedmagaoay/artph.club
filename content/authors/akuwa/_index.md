@@ -6,7 +6,7 @@ role: Illustrator
 social:
   - icon: briefcase
     icon_pack: fas
-    link: akuwa
+    link: /akuwa
 
   - icon: twitter
     icon_pack: fab
