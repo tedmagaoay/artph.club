@@ -1,7 +1,7 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 
-role: Artist
+role: Illustrator
 
 social:
   - icon: briefcase
@@ -13,8 +13,29 @@ social:
     link: https://twitter.com/
     label: Follow me on Twitter
 
-highlight_name: false
+  - icon: coffee
+    icon_pack: fas
+    link: https://ko-fi.com/
+    label: Support me on Ko-fi
+    
+  - icon: instagram
+    icon_pack: fab
+    link: https://www.instagram.com/
+    label: Instagram
+
+  - icon: behance
+    icon_pack: fab
+    link: https://www.behance.net/
+    label: Behance
+
+  - icon: dribbble
+    icon_pack: fab
+    link: https://dribbble.com/
+    label: Dribbble
+
+highlight_name: true
 
 user_groups:
   - Artists
+  - Top Artists
 ---
