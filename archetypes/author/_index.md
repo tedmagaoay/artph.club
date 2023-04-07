@@ -8,6 +8,11 @@ social:
     icon_pack: fas
     link: /{{ path.Base (path.Dir .File.Path) }}
 
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:'
+    label: Email me
+
   - icon: twitter
     icon_pack: fab
     link: 
