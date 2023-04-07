@@ -61,6 +61,7 @@ permalinks:
   authors: '/:slug/'
   post: '/:slug/'
   project: '/:slug/'
+  artist: '/:slug/'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
