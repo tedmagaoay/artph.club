@@ -22,5 +22,5 @@ highlight_name: true
 
 user_groups:
   - Artists
-  - Top Artists
+  - Featured
 ---
