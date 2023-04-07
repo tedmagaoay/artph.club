@@ -29,3 +29,5 @@ projects: []
 ---
 
 Hello.
+
+{{% github_rodrigoalcarazdelaosa_lottie src="/animanguys/12.tgs" width="100%" %}}
