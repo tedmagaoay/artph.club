@@ -42,15 +42,6 @@ collections:
               - {label: "Academic", value: "ai"}
           - {label: Icon (see https://wowchemy.com/docs/page-builder/#icons), name: icon, widget: string}
           - {label: Label (tooltip), name: label, widget: string, required: false}
-          - label: Display in About widget and...
-            name: display
-            widget: object
-            fields:
-              - label: "Header (main menu)"
-                name: "header"
-                widget: "boolean"
-                default: false
-                required: false
       - {label: "Email (to use a Gravatar.com avatar)", name: "email", widget: "string", required: false}
       - label: "User groups (only for organization websites)"
         name: "user_groups"
