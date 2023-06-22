@@ -1,0 +1,12 @@
+- query: Featured Artists
+  link: /#featured/
+- query: Pinoy Artists
+  link: /artists/
+- query: Blog
+  link: /blog/
+- query: pxelluna
+  link: /pxelluna/
+- query: kellognuts
+  link: /kellognuts/
+- query: Contact
+  link: /contact/
